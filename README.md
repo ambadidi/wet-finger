@@ -1,2 +1,2 @@
-# wet-finger
+# wet finger
 train your senses
